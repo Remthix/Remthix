@@ -63,7 +63,7 @@
 
 ---
 
-### 📚 Lates Medium Blog Posts
+### 📚 Latest Medium Blog Posts
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
 
