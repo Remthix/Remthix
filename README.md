@@ -65,6 +65,8 @@
 
 ### 📚 Latest Medium Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Programming for obsolescence](https://sdremthix.medium.com/programming-for-obsolescence-dc8b6502546?source=rss-741be2c6b322------2)
+- [A high level overview to refactoring monolithic code structures](https://sdremthix.medium.com/a-high-level-overview-to-refactoring-monolithic-code-structures-2d5b70a79570?source=rss-741be2c6b322------2)
 <!-- BLOG-POST-LIST:END -->
 
 
