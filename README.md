@@ -2,10 +2,10 @@
 
 ## I'm a Software Developer!!
 
-- 🔭 Writing codde and blog posts from Belgrade|Serbia!
-- 🌱 I’m working on improving my sotware development skills all the time. Probaly looking into new courses and books
-- 🥅 2021 Goals: Focus more on application testing
-- ⚡ Random stuff: I'm a photography enthusiast and car lover
+- 🔭 Writing code and blog posts from Belgrade|Serbia!
+- 🏃 I’m working on improving my sotware development skills all the time. Probaly looking into new courses and books
+- 😄 2021 Goals: Focus more on application testing
+- 📷🚗 Random stuff: I'm a photography enthusiast and car lover
 
 ### Connect with me:
 
@@ -63,6 +63,9 @@
 
 ---
 
+### 📚 Lates Medium Blog Posts
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
 
 
 [instagram]: https://instagram.com/sdremthix
