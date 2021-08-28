@@ -2,10 +2,10 @@
 
 ## I'm a Software Developer!!
 
-- 🔭 Writing code and blog posts from Belgrade|Serbia!
-- 🏃 I’m working on improving my sotware development skills all the time. Probaly looking into new courses and books
+- 🔭 Writing code and blog posts from Belgrade|Serbia
+- 🏃 I’m working on improving my sotware development skills all the time. Looking into new courses and books
 - 😄 2021 Goals: Focus more on application testing
-- 📷🚗 Random stuff: I'm a photography enthusiast and car lover
+- 📷🚗 Random stuff: I'm a photography enthusiast and automotive lover
 
 ### Connect with me:
 
@@ -19,7 +19,7 @@
 
 ---
 
-### Languages, Tools and frameworks:
+### Languages, Tools and Frameworks:
 [//]:# (Android, Java, Kotlin, GoLang, JS)
 
 <a href="https://developer.android.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="Android SDK" width="26px" height="26px"/> </a>
