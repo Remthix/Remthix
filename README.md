@@ -65,7 +65,10 @@
 
 ### 📚 Latest Substack and Medium Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [The importance of having a deadline](https://srdjandelic.substack.com/p/article)
+- [Sharing topics, ideas and everything random from my experience as a software developer and photographer](https://srdjandelic.substack.com/p/coming-soon)
 - [Programming for obsolescence](https://sdremthix.medium.com/programming-for-obsolescence-dc8b6502546?source=rss-741be2c6b322------2)
+- [Programming for obsolescence](https://srdjandelic.substack.com/p/programming-for-obsolescence-dc8b6502546)
 - [A high level overview to refactoring monolithic code structures](https://sdremthix.medium.com/a-high-level-overview-to-refactoring-monolithic-code-structures-2d5b70a79570?source=rss-741be2c6b322------2)
 <!-- BLOG-POST-LIST:END -->
 
