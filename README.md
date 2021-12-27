@@ -4,7 +4,7 @@
 
 - 🔭 Writing code and blog posts from Belgrade|Serbia
 - 🏃 I’m working on improving my sotware development skills all the time. Looking into new courses and books
-- 😄 2021 Goals: Focus more on application testing
+- 😄 2022 Goals: Learning about AI and big data. Improve application testing skills
 - 📷🚗 Random stuff: I'm a photography enthusiast and automotive lover
 
 ### Connect with me:
@@ -63,7 +63,7 @@
 
 ---
 
-### 📚 Latest Medium Blog Posts
+### 📚 Latest Substack and Medium Blog Posts
 <!-- BLOG-POST-LIST:START -->
 - [Programming for obsolescence](https://sdremthix.medium.com/programming-for-obsolescence-dc8b6502546?source=rss-741be2c6b322------2)
 - [A high level overview to refactoring monolithic code structures](https://sdremthix.medium.com/a-high-level-overview-to-refactoring-monolithic-code-structures-2d5b70a79570?source=rss-741be2c6b322------2)
