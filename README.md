@@ -65,15 +65,13 @@
 
 ---
 
-### 📚 Latest Substack and Medium Blog Posts
+### 📚 Latest Medium Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
 
 - [Knowledge poisoning](https://srdjandelic.substack.com/p/knowledge-poisoning)
 - [The importance of having a deadline](https://srdjandelic.substack.com/p/article)
-- [Sharing topics, ideas and everything random from my experience as a software developer and photographer](https://srdjandelic.substack.com/p/coming-soon)
 - [Programming for obsolescence](https://sdremthix.medium.com/programming-for-obsolescence-dc8b6502546?source=rss-741be2c6b322------2)
-- [Programming for obsolescence](https://srdjandelic.substack.com/p/programming-for-obsolescence-dc8b6502546)
 <!-- BLOG-POST-LIST:END -->
 
 [instagram]: https://instagram.com/sdremthix
