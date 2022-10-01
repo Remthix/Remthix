@@ -68,10 +68,11 @@
 ### 📚 Latest Medium Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [The importance of having a deadline](https://sdremthix.medium.com/the-importance-of-having-a-deadline-c65391e76106?source=rss-741be2c6b322------2)
+- [Project provisioning/handover](https://sdremthix.medium.com/project-provisioning-handover-caec9673b02b?source=rss-741be2c6b322------2)
+- [Knowledge poisoning](https://sdremthix.medium.com/knowledge-poisoning-33f338600cbb?source=rss-741be2c6b322------2)
 - [The endless effort of not finishing a &lpar;side&rpar; project](https://sdremthix.medium.com/the-endless-effort-of-not-finishing-a-side-project-cc5597e60b83?source=rss-741be2c6b322------2)
 - [Who mentors the mentors](https://sdremthix.medium.com/who-mentors-the-mentors-752d5671d159?source=rss-741be2c6b322------2)
-- [Programming for obsolescence](https://sdremthix.medium.com/programming-for-obsolescence-dc8b6502546?source=rss-741be2c6b322------2)
-- [A high level overview to refactoring monolithic code structures](https://sdremthix.medium.com/a-high-level-overview-to-refactoring-monolithic-code-structures-2d5b70a79570?source=rss-741be2c6b322------2)
 <!-- BLOG-POST-LIST:END -->
 
 [instagram]: https://instagram.com/sdremthix
