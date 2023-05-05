@@ -4,7 +4,7 @@
 
 - 🔭 Writing code and blog posts from Belgrade|Serbia
 - 🏃 I’m working on improving my software development skills all the time. Looking into new courses and books
-- 😄 2022 Goals: Learning about AI and big data. Improve application testing skills
+- 😄 2023 Goals: Learning about AI and big data. Improve application testing skills
 - 📷🚗 Random stuff: I'm a photography enthusiast and automotive lover
 
 ### Connect with me:
