@@ -9,10 +9,10 @@
 
 ### Connect with me:
 
-[<img align="left" alt="sdremthix | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
-[<img align="left" alt="sdremthix | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="sdremthix | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
-[<img align="left" alt="sdremthix" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
+[<img align="left" alt="sdremthix | Twitter" width="22px" src="https://img.icons8.com/color/48/null/twitter--v1.png" />][twitter]
+[<img align="left" alt="sdremthix | LinkedIn" width="22px" src="https://img.icons8.com/color/48/null/linkedin.png" />][linkedin]
+[<img align="left" alt="sdremthix | Instagram" width="22px" src="https://img.icons8.com/fluency/48/null/instagram-new.png" />][instagram]
+[<img align="left" alt="sdremthix" width="22px" src="https://img.icons8.com/material-rounded/24/null/globe--v1.png" />][website]
 
 <br />
 
