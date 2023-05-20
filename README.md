@@ -69,11 +69,11 @@
 ### 📚 Latest Medium Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [What is AIaaS?](https://sdremthix.medium.com/what-is-aiaas-c33b799b2a6c?source=rss-741be2c6b322------2)
 - [Programming to an Interface](https://sdremthix.medium.com/programming-to-an-interface-1ad65d437f97?source=rss-741be2c6b322------2)
 - [Branchless programming — Why your CPU will thank you](https://sdremthix.medium.com/branchless-programming-why-your-cpu-will-thank-you-5f405d97b0c8?source=rss-741be2c6b322------2)
 - [Discovering: Quantum Computing](https://sdremthix.medium.com/discovering-quantum-computing-bb8b4e53e74d?source=rss-741be2c6b322------2)
 - [The Developer Experience &lpar;DX&rpar;](https://sdremthix.medium.com/the-developer-experience-dx-929ad944e776?source=rss-741be2c6b322------2)
-- [The importance of having a deadline](https://sdremthix.medium.com/the-importance-of-having-a-deadline-c65391e76106?source=rss-741be2c6b322------2)
 <!-- BLOG-POST-LIST:END -->
 
 [instagram]: https://instagram.com/sdremthix
