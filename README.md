@@ -79,5 +79,5 @@
 [instagram]: https://instagram.com/sdremthix
 [linkedin]: https://linkedin.com/in/srdjandelic
 [twitter]: https://twitter.com/sdremthix
-[website]: https://sdremthix.weebly.com/
+[website]: https://sdremthix.com/
 [youtube]: https://youtube.com/SdThix
