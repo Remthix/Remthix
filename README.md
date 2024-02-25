@@ -4,16 +4,16 @@
 
 - 🔭 Writing code and blog posts from Belgrade|Serbia
 - 🏃 I’m working on improving my software development skills all the time. Looking into new courses and books
-- 😄 2023 Goals: Learning about AI and big data. Improve application testing skills
-- 📷🚗 Random stuff: I'm a photography enthusiast and automotive lover
+- 😄 2024 Goals: Learning about AI and big data. Improve application testing skills
+- 📷🚗🏍️ Random stuff: I'm a photography enthusiast and automotive lover
 
 ### Connect with me:
 
 [<img align="left" alt="sdremthix | Twitter" width="22px" src="https://img.icons8.com/color/48/null/twitter--v1.png" />][twitter]
 [<img align="left" alt="sdremthix | LinkedIn" width="22px" src="https://img.icons8.com/color/48/null/linkedin.png" />][linkedin]
 [<img align="left" alt="sdremthix | Instagram" width="22px" src="https://img.icons8.com/fluency/48/null/instagram-new.png" />][instagram]
-[<img align="left" alt="sdremthix" width="22px" src="https://img.icons8.com/fluency/48/null/globe.png" />][website]
-[<img align="left" alt="sdremthix" width="22px" src="https://img.icons8.com/color/48/null/youtube-play.png" />][youtube]
+[<img align="left" alt="sdremthix | Website" width="22px" src="https://img.icons8.com/fluency/48/null/america.png" />][website]
+[<img align="left" alt="sdremthix | YouTube" width="22px" src="https://img.icons8.com/color/48/null/youtube-play.png" />][youtube]
 
 <br />
 
