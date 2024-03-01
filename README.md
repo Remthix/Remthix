@@ -69,11 +69,11 @@
 ### 📚 Latest Medium Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Android Fastlane Tutorial](https://sdremthix.medium.com/android-fastlane-tutorial-8819d3d2d24c?source=rss-741be2c6b322------2)
 - [Discovering: MLOps](https://sdremthix.medium.com/discovering-mlops-a49ef3139696?source=rss-741be2c6b322------2)
 - [What is AIaaS?](https://sdremthix.medium.com/what-is-aiaas-c33b799b2a6c?source=rss-741be2c6b322------2)
 - [Programming to an Interface](https://sdremthix.medium.com/programming-to-an-interface-1ad65d437f97?source=rss-741be2c6b322------2)
 - [Branchless programming — Why your CPU will thank you](https://sdremthix.medium.com/branchless-programming-why-your-cpu-will-thank-you-5f405d97b0c8?source=rss-741be2c6b322------2)
-- [Discovering: Quantum Computing](https://sdremthix.medium.com/discovering-quantum-computing-bb8b4e53e74d?source=rss-741be2c6b322------2)
 <!-- BLOG-POST-LIST:END -->
 
 [instagram]: https://instagram.com/sdremthix
